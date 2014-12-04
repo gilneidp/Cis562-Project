@@ -33,9 +33,9 @@
 		       </div>
 			  </div>
 		  <div class="row col-md-9">
-        <div class='col-md-3'>
+        <div class='col-md-6'>
             <div class="form-group">
-                <div class='input-group date' id='datetimepicker1'>
+                <div class='input-group date' id='datetimepicker'>
                     <input type='text' class="form-control" />
                     <span class="input-group-addon"><span class="glyphicon glyphicon-calendar"></span>
                     </span>
