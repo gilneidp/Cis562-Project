@@ -24,6 +24,11 @@
           <a href="#"><img class="head-image" src="img/head.jpg" alt="hd"></a>
           </div>
 		</div>
+	       <div class="row">
+		   <div class="col-md-4">
+		   <a href="http://www.showmyweather.com/" title="Show My Weather Forecast" onclick="window.open(this.href);return(false);"><script type="text/javascript" src="http://www.showmyweather.com/weather_widget.php?int=0&type=js&country=us&state=Kansas&city=Manhattan&smallicon=1&current=1&forecast=1&background_color=ffffff&color=000000&width=175&padding=10&border_width=1&border_color=000000&font_size=11&font_family=Verdana&showicons=1&measure=F&d=2014-12-04"></script></a><div style="width:197px;text-align:center;font-size:0.6em;margin-top:0.5em;"><a href="http://www.showmyweather.com/widget/">Free Weather Widget</a></div>
+		   </div>
+		   </div>
   
   
   
