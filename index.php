@@ -42,11 +42,6 @@
                     </span>
                 </div>
             </div>
-        <script type="text/javascript" src="css/bootstrap-datepicker">
-            $(function () {
-                $('#datetimepicker').datetimepicker();
-            });
-        </script>
 		</div>
 		</div>
 		</div>
@@ -62,6 +57,11 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/main.js"></script>
 	<script src="js/bootstrap-datepicker.js"></script>
+	<script type="text/javascript">
+            $(function () {
+                $('#datetimepicker').datetimepicker();
+            });
+        </script>
     <script src="js/bootstrap.min.js"></script>
   </body>
 </html>
