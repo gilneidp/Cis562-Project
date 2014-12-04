@@ -32,7 +32,6 @@
 		        </div>
 		       </div>
 			  </div>
-			 </div>
 		  <div class="row col-md-9">
         <div class='col-md-3'>
             <div class="form-group">
@@ -48,6 +47,7 @@
                 $('#datetimepicker1').datetimepicker();
             });
         </script>
+		</div>
 		</div>
   
   
