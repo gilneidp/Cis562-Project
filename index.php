@@ -26,10 +26,12 @@
 		</div>
 	       <div class="row">
 		   <div class="col-md-4">
+		   <div class="align-center">
 		   <div id="cont_a227fc726fe88f454735c570837ae6c8">
-  <span id="h_a227fc726fe88f454735c570837ae6c8"><a id="a_a227fc726fe88f454735c570837ae6c8" href="http://www.theweather.com/" target="_blank" rel="nofollow" style="color:#808080;font-family:Helvetica;font-size:14px;">Weather</a> Manhattan</span>
-  <script type="text/javascript" src="http://www.theweather.com/wid_loader/a227fc726fe88f454735c570837ae6c8"></script>
-</div>
+			<span id="h_a227fc726fe88f454735c570837ae6c8"><a id="a_a227fc726fe88f454735c570837ae6c8" href="http://www.theweather.com/" target="_blank" rel="nofollow" style="color:#808080;font-family:Helvetica;font-size:14px;">Weather</a> Manhattan</span>
+			<script type="text/javascript" src="http://www.theweather.com/wid_loader/a227fc726fe88f454735c570837ae6c8"></script>
+			</div>
+			</div>
 		   </div>
 		   </div>
   
