@@ -16,7 +16,6 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="css/personal.css">
-	<script type="text/javascript" src="css/bootstrap-datepicker.js"></script>
   </head>
   <body>
   <div class="container main-content">
@@ -42,9 +41,9 @@
                     </span>
                 </div>
             </div>
-        <script type="text/javascript">
+        <script type="text/javascript" src="css/bootstrap-datepicker">
             $(function () {
-                $('#datetimepicker4').datetimepicker();
+                $('#datetimepicker').datetimepicker();
             });
         </script>
 		</div>
