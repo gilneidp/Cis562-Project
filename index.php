@@ -28,9 +28,7 @@
 		   <div class="col-md-3">
 		    <div class="edu-background">
 		   <div class="align-center">
-		   <div id="cont_69745d4f554630864c2d48bf645395e6">
-			<span id="h_69745d4f554630864c2d48bf645395e6">Weather Manhattan</span>
-			<script type="text/javascript" src="http://www.theweather.com/wid_loader/69745d4f554630864c2d48bf645395e6"></script>
+		   <span style="display: block !important; width: 180px; text-align: center; font-family: sans-serif; font-size: 12px;"><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Manhattan, Kansas Weather Forecast" target="_blank"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_travel_runway1&airportcode=KMHK&ForcedCity=Manhattan&ForcedState=KS&zip=66502&language=EN" alt="Find more about Weather in Manhattan, KS" width="160" /></a><br><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px" target="_blank">Click for weather forecast</a></span>
 		        </div>
 		       </div>
 			  </div>
