@@ -26,14 +26,16 @@
 		</div>
 	       <div class="row">
 		   <div class="col-md-4">
+		    <div class="edu-background">
 		   <div class="align-center">
 		   <div id="cont_69745d4f554630864c2d48bf645395e6">
 			<span id="h_69745d4f554630864c2d48bf645395e6">Weather Manhattan</span>
 			<script type="text/javascript" src="http://www.theweather.com/wid_loader/69745d4f554630864c2d48bf645395e6"></script>
-			</div>
-			</div>
-		   </div>
-		   </div>
+		        </div>
+		       </div>
+			  </div>
+			 </div>
+		    </div>
   
   
   
