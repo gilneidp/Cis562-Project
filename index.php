@@ -34,7 +34,6 @@
 			  </div>
 			 </div>
 		  <div class="row col-md-9">
-    <div class="row">
         <div class='col-md-3'>
             <div class="form-group">
                 <div class='input-group date' id='datetimepicker1'>
@@ -50,7 +49,6 @@
             });
         </script>
 		</div>
-	  </div>
   
   
   
