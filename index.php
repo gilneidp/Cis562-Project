@@ -51,8 +51,8 @@
 			</div><!--End Airport form -->
 			 
 		   </div> <!--Close First Column -->
-			<div class="col-lg-4"> <!-- Start Data form -->
-			<h5><span class="label label-info form-padding">To:</span></h5>
+			<div class="col-lg-4 form-padding"> <!-- Start Data form -->
+			<h5><span class="label label-info">To:</span></h5>
              <div class="input-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
