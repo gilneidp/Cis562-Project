@@ -47,11 +47,15 @@
 			
 			<div class="input-group form-padding"> <!--Airport Form -->
 			<input type="text" class="form-control" placeholder="Airport">
+			<span class="input-group-addon"></span>
+			<input type="text" class="form-control" placeholder="Code">
 			<span class="input-group-addon glyphicon glyphicon-plane"></span>
 			</div><!--End Airport form -->
-			 
 		   </div> <!--Close First Column -->
-			<div class="col-lg-4 form-padding"> <!-- Start Arrival column -->
+		   
+			<!-- Start Arrival column -->
+		  
+			<div class="col-lg-4 form-padding"> 
 			<h5><span class="label label-info">To:</span></h5>
 			 <div class="input-group" style="padding-right:10px"> <!--Country form -->
 			<input type="text" class="form-control" placeholder="Country">
@@ -70,13 +74,13 @@
 			
 		   </div> <!--Close Arrival Column-->
 		</div>
-		<div class="input-group">
+		<div class="input-group"><!--Start Date form-->
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
 			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
 			</span>
             </div
-		</div>
+		</div> <!--End Date form-->
   
   
   
