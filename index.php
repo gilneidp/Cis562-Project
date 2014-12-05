@@ -35,7 +35,7 @@
 		  <div class="row col-md-9">
 		  <div class="col-lg-4"> <!-- Start Data form -->
 		  <div class="input-group">
-			<input type="text" class="form-control" placeholder="City">>
+			<input type="text" class="form-control" placeholder="City">
 			<span class="input-group-addon glyphicon glyphicon-plane"></span>
 			</div>
 		   </div> <!--Close data form -->
