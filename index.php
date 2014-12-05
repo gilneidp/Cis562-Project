@@ -34,7 +34,7 @@
 			  </div>
 		  <div class="row col-md-9">
 		    <div class="col-lg-4"> <!-- Start Data form -->
-            <div class="imput-group">
+            <div class="input-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
 			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
