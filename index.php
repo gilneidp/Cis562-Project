@@ -9,7 +9,6 @@
     <!-- Bootstrap -->
 	<link href="css/datepicker.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
-    <script src="js/bootstrap-datepicker.js"></script>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
     <!--[if lt IE 9]>
@@ -34,23 +33,7 @@
 		       </div>
 			  </div>
 		  <div class="row col-md-9">
-        <div class="container">
-    <div class="row">
-        <div class='col-sm-6'>
-            <div class="form-group">
-                <div class="input-append date" id="dp3" data-date="12-02-2012" data-date-format="dd-mm-yyyy">
-                <input class="span2" size="16" type="text" value="12-02-2012">
-                <span class="add-on"><i class="icon-th"></i></span>
-               </div>
-            </div>
-        </div>
-        <script type="text/javascript">
-            $(function () {
-                $('#datetimepicker1').datetimepicker();
-            });
-        </script>
-    </div>
-</div>
+			date:<input class="datepicker" type="text" name="date">
 		</div>
 		</div>
   
@@ -65,5 +48,11 @@
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/main.js"></script>
     <script src="js/bootstrap.min.js"></script>
+	<script src="js/bootstrap-datepicker.js"></script>
+	<script>
+	 $(function(){
+	  $('.datepicker').datepicker();
+	  });
+	</script>
   </body>
 </html>
