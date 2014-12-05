@@ -6,6 +6,10 @@
 body {
   background-color: #cccccc;
 }
+bg{
+    background:url('/img/head.jpg') no-repeat center center;
+    height: 500px;
+}
 
 footer {
   margin: 10px 0 0 0;
