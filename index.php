@@ -33,7 +33,7 @@
 		       </div>
 			  </div>
 		  <div class="row col-md-9">
-		  <div class="col-lg-4 form-padding"> <!-- Start first column -->
+		  <div class="col-lg-5 form-padding"> <!-- Start first column -->
 		     <h5><span class="label label-info ">From:</span></h5>
 		     <div class="input-group" style="padding-right:10px"> <!--Country form -->
 			<input type="text" class="form-control" placeholder="Country">
@@ -45,16 +45,11 @@
 			<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
 			</div><!-- End City form -->
 			
-			 <div class="col-md-2">
 			<div class="input-group form-padding2"> <!--Airport Form -->
 			<input type="text" class="form-control" placeholder="Airport">
 			<span class="input-group-addon"></span>
-			 </div>
-			  <div class="col-md-1">
-			  <div class="input-group form-padding2">
 				<input type="text" class="form-control" placeholder="Code">
 				<span class="input-group-addon glyphicon glyphicon-plane"></span>
-				</div>
 			</div><!--End Airport form -->
 		   </div> <!--Close First Column -->
 		   
