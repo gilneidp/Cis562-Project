@@ -36,10 +36,8 @@
 		    <div class="col-md-2"> <!-- Start Data form -->
 			<form class="navbar-form navbar-left" role="Dep. Date">
             <div class="form-group">
-            <input type="text" class="form-control datepicker" placeholder="DATE">
-			<span class="add-on">
-				<i class="glyphicon glyphicon-calendar">
-			</span>
+            <input type="text" class="form-control datepicker" placeholder="Departing Date">
+			 <button type="button" class="btn btn-default glyphicon glyphicon-calendar"></button>
             </div>
 			</form>
 		   </div> <!--Close data form -->
