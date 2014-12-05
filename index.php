@@ -51,16 +51,31 @@
 			</div><!--End Airport form -->
 			 
 		   </div> <!--Close First Column -->
-			<div class="col-lg-4 form-padding"> <!-- Start Data form -->
+			<div class="col-lg-4 form-padding"> <!-- Start Arrival column -->
 			<h5><span class="label label-info">To:</span></h5>
-             <div class="input-group">
+			 <div class="input-group" style="padding-right:10px"> <!--Country form -->
+			<input type="text" class="form-control" placeholder="Country">
+			<span class="input-group-addon glyphicon glyphicon-globe"></span>
+			</div> <!-- End Country form -->
+			
+			<div class="input-group form-padding"> <!--City form -->
+			<input type="text" class="form-control" placeholder="City">
+			<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
+			</div><!-- End City form -->
+			
+			<div class="input-group form-padding"> <!--Airport Form -->
+			<input type="text" class="form-control" placeholder="Airport">
+			<span class="input-group-addon glyphicon glyphicon-plane"></span>
+			</div><!--End Airport form -->
+			
+		   </div> <!--Close Arrival Column-->
+		</div>
+		<div class="input-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
 			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
 			</span>
-            </div>
-		   </div> <!--Close data form -->
-		</div>
+            </div
 		</div>
   
   
