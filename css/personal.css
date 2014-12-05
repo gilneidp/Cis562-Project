@@ -6,7 +6,7 @@
 body {
   background-color: #cccccc;
 }
-#bg{
+.bg{
      background-image: url(img/av.jpg) no-repeat center center fixed; 
      
 }
