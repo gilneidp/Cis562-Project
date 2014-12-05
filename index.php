@@ -20,68 +20,73 @@
   <body>
   <div class="container main-content">
 		<div class="row">
-		<div class="col-md-12">
-          <a href="#"><img class="head-image" src="img/head.jpg" alt="hd"></a>
-          </div>
+			<div class="col-md-12">
+				<a href="#"><img class="head-image" src="img/head.jpg" alt="hd"></a>
+			</div>
 		</div>
 	       <div class="row">
-		   <div class="col-md-3">
-		    <div class="edu-background">
-		   <div class="align-center">
-		   <span style="display: block !important; width: 280px; text-align: center; font-family: sans-serif; font-size: 12px;"><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Manhattan, Kansas Weather Forecast" target="_blank"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_travel_runway1&airportcode=KMHK&ForcedCity=Manhattan&ForcedState=KS&zip=66502&language=EN" alt="Find more about Weather in Manhattan, KS" width="160" /></a><br><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px" target="_blank"></a></span>
-		        </div>
-		       </div>
-			  </div>
+				<div class="col-md-3">
+					<div class="edu-background">
+						<div class="align-center">
+							<span style="display: block !important; width: 280px; text-align: center; font-family: sans-serif; font-size: 12px;"><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Manhattan, Kansas Weather Forecast" target="_blank"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_travel_runway1&airportcode=KMHK&ForcedCity=Manhattan&ForcedState=KS&zip=66502&language=EN" alt="Find more about Weather in Manhattan, KS" width="160" /></a><br><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px" target="_blank"></a></span>
+						</div>
+					</div>
+				</div>
 		  <div class="row col-md-9" style="background-image:url('img/av.jpg');">
-		  <div class="col-lg-5 form-padding"> <!-- Start first column -->
-		     <h5><span class="label label-info ">From:</span></h5>
-		     <div class="input-group" style="padding-right:10px"> <!--Country form -->
-			<input type="text" class="form-control" placeholder="Country">
-			<span class="input-group-addon glyphicon glyphicon-globe"></span>
-			</div> <!-- End Country form -->
+			<div class="col-lg-5 form-padding"> <!-- Start first column -->
+				<h5><span class="label label-info ">From:</span></h5>
+				<div class="input-group" style="padding-right:10px"> <!--Country form -->
+					<input type="text" class="form-control" placeholder="Country">
+					<span class="input-group-addon glyphicon glyphicon-globe"></span>
+				</div> <!-- End Country form -->
 			
-			<div class="input-group form-padding"> <!--City form -->
-			<input type="text" class="form-control" placeholder="City">
-			<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
-			</div><!-- End City form -->
+				<div class="input-group form-padding"> <!--City form -->
+					<input type="text" class="form-control" placeholder="City">
+					<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
+				</div><!-- End City form -->
 			
-			<div class="input-group form-padding2"> <!--Airport Form -->
-			<input type="text" class="form-control" placeholder="Airport">
-			<span class="input-group-addon"></span>
-				<input type="text" class="form-control" placeholder="Code">
-				<span class="input-group-addon glyphicon glyphicon-plane"></span>
-			</div><!--End Airport form -->
-		   </div> <!--Close First Column -->
+				<div class="input-group form-padding2"> <!--Airport Form -->
+					<input type="text" class="form-control" placeholder="Airport">
+					<span class="input-group-addon"></span>
+					<input type="text" class="form-control" placeholder="Code">
+					<span class="input-group-addon glyphicon glyphicon-plane"></span>
+				</div><!--End Airport form -->
+			
+					<div class="input-group"><!--Start Date form-->
+						<input type="text" class="form-control datepicker" placeholder="Departing Date">
+						<span class="input-group-btn">
+						<button class="btn btn-default glyphicon glyphicon-calendar"></button>
+						</span>
+					</div>
+				</div> <!--End Date form-->
+			</div> <!--Close First Column -->
 		   
-			<!-- Start Arrival column -->
+				<!-- Start Arrival column -->
 		  
-			<div class="col-lg-4 form-padding"> 
-			<h5><span class="label label-info">To:</span></h5>
-			 <div class="input-group" style="padding-right:10px"> <!--Country form -->
-			<input type="text" class="form-control" placeholder="Country">
-			<span class="input-group-addon glyphicon glyphicon-globe"></span>
-			</div> <!-- End Country form -->
+				<div class="col-lg-5 form-padding"> 
+					<h5><span class="label label-info">To:</span></h5>
+					<div class="input-group" style="padding-right:10px"> <!--Country form -->
+					<input type="text" class="form-control" placeholder="Country">
+					<span class="input-group-addon glyphicon glyphicon-globe"></span>
+					</div> <!-- End Country form -->
 			
-			<div class="input-group form-padding"> <!--City form -->
-			<input type="text" class="form-control" placeholder="City">
-			<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
-			</div><!-- End City form -->
+				<div class="input-group form-padding"> <!--City form -->
+					<input type="text" class="form-control" placeholder="City">
+					<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
+				</div><!-- End City form -->
 			
-			<div class="input-group form-padding"> <!--Airport Form -->
-			<input type="text" class="form-control" placeholder="Airport">
-			<span class="input-group-addon glyphicon glyphicon-plane"></span>
-			</div><!--End Airport form -->
+				<div class="input-group form-padding2"> <!--Airport Form -->
+					<input type="text" class="form-control" placeholder="Airport">
+					<span class="input-group-addon"></span>
+					<input type="text" class="form-control" placeholder="Code">
+					<span class="input-group-addon glyphicon glyphicon-plane"></span>
+				</div><!--End Airport form -->
 			
 		   </div> <!--Close Arrival Column-->
-		   <div class="input-group"><!--Start Date form-->
-            <input type="text" class="form-control datepicker" placeholder="Departing Date">
-			<span class="input-group-btn">
-			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
-			</span>
-            </div>
-		</div> <!--End Date form-->
+		   
 		</div>
 		
+  
   
   
   
