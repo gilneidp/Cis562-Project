@@ -33,7 +33,13 @@
 		       </div>
 			  </div>
 		  <div class="row col-md-9">
-			date:<input class="datepicker" type="text" name="date">
+		    <div class="col-md-3"> <!-- Start Data form -->
+			<form class="navbar-form navbar-left datapicker" role="Dep. Date">
+            <div class="form-group">
+            <input type="text" class="form-control" placeholder="Dep. Date">
+            </div>
+			</form>
+		   </div> <!--Close data form -->
 		</div>
 		</div>
   
