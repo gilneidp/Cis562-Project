@@ -32,7 +32,7 @@
 		        </div>
 		       </div>
 			  </div>
-		  <div class="row col-md-9 bg">
+		  <div class="row col-md-9" style="background-image:url('img/av.jpg');">
 		  <div class="col-lg-5 form-padding"> <!-- Start first column -->
 		     <h5><span class="label label-info ">From:</span></h5>
 		     <div class="input-group" style="padding-right:10px"> <!--Country form -->
