@@ -51,6 +51,7 @@
 			<span class="input-group-addon"></span>
 			 </div>
 			  <div class="col-md-1">
+			  <div class="input-group form-padding2">
 				<input type="text" class="form-control" placeholder="Code">
 				<span class="input-group-addon glyphicon glyphicon-plane"></span>
 				</div>
