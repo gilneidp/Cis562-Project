@@ -45,11 +45,15 @@
 			<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
 			</div><!-- End City form -->
 			
+			 <div class="col-xs-2">
 			<div class="input-group form-padding2"> <!--Airport Form -->
 			<input type="text" class="form-control" placeholder="Airport">
 			<span class="input-group-addon"></span>
-			<input type="text" class="form-control" placeholder="Code">
-			<span class="input-group-addon glyphicon glyphicon-plane"></span>
+			 </div>
+			  <div class="col-xs-1"
+				<input type="text" class="form-control" placeholder="Code">
+				<span class="input-group-addon glyphicon glyphicon-plane"></span>
+				</div>
 			</div><!--End Airport form -->
 		   </div> <!--Close First Column -->
 		   
