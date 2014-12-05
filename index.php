@@ -36,7 +36,7 @@
 		    <div class="col-md-3"> <!-- Start Data form -->
 			<form class="navbar-form navbar-left" role="Dep. Date">
             <div class="form-group">
-            <input type="text" class="form-control datepicker" placeholder="Dep. Date">
+            <input type="text" class="form-control glyphicon glyphicon-calendar  datepicker" placeholder="Depart Date">
             </div>
 			</form>
 		   </div> <!--Close data form -->
