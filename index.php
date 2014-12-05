@@ -73,15 +73,15 @@
 			</div><!--End Airport form -->
 			
 		   </div> <!--Close Arrival Column-->
-		</div>
-		<div class="input-group"><!--Start Date form-->
+		   <div class="input-group"><!--Start Date form-->
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
 			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
 			</span>
-            </div
+            </div>
 		</div> <!--End Date form-->
-  
+		</div>
+		
   
   
   
