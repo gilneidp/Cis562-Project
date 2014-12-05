@@ -33,7 +33,7 @@
 		       </div>
 			  </div>
 		  <div class="row col-md-9">
-		    <div class="col-md-3"> <!-- Start Data form -->
+		    <div class="col-md-4"> <!-- Start Data form -->
 			<form class="navbar-form navbar-left" role="Dep. Date">
             <div class="imput-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
