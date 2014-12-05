@@ -34,7 +34,8 @@
 			  </div>
 		  <div class="row col-md-9">
 		  <div class="col-lg-4"> <!-- Start first column -->
-		     From: <div class="input-group form-padding"> <!--Country form -->
+		     <span class="label label-info">From:</span>
+		     <div class="input-group" style="padding-right:10px"> <!--Country form -->
 			<input type="text" class="form-control" placeholder="Country">
 			<span class="input-group-addon glyphicon glyphicon-globe"></span>
 			</div> <!-- End Country form -->
