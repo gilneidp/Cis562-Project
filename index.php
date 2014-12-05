@@ -34,7 +34,7 @@
 			  </div>
 		  <div class="row col-md-9">
 		  <div class="col-lg-4"> <!-- Start first column -->
-		     <span class="label label-info">From:</span>
+		     <h4><span class="label label-info form-padding">From:</span></h4>
 		     <div class="input-group" style="padding-right:10px"> <!--Country form -->
 			<input type="text" class="form-control" placeholder="Country">
 			<span class="input-group-addon glyphicon glyphicon-globe"></span>
@@ -52,7 +52,8 @@
 			 
 		   </div> <!--Close First Column -->
 			<div class="col-lg-4"> <!-- Start Data form -->
-             To: <div class="input-group">
+			<h4><span class="label label-info form-padding">To:</span></h4>
+             <div class="input-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
 			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
