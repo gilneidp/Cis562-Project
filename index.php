@@ -50,7 +50,7 @@
 			<input type="text" class="form-control" placeholder="Airport">
 			<span class="input-group-addon"></span>
 			 </div>
-			  <div class="col-xs-1"
+			  <div class="col-xs-1">
 				<input type="text" class="form-control" placeholder="Code">
 				<span class="input-group-addon glyphicon glyphicon-plane"></span>
 				</div>
