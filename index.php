@@ -39,13 +39,13 @@
 			<span class="input-group-addon glyphicon glyphicon-globe"></span>
 			</div>
 			
-			<div class="input-group"> 
-			<input type="text" class="form-control form-padding" placeholder="City">
+			<div class="input-group form-padding"> 
+			<input type="text" class="form-control" placeholder="City">
 			<span class="input-group-addon glyphicon glyphicon-plane"></span>
 			</div>
 			
 		   </div> <!--Close data form -->
-		    <div class="col-lg-4"> <!-- Start Data form -->
+		   To: <div class="col-lg-4"> <!-- Start Data form -->
             <div class="input-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
