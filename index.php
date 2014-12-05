@@ -57,13 +57,12 @@
 						<span class="input-group-btn">
 						<button class="btn btn-default glyphicon glyphicon-calendar"></button>
 						</span>
-					</div>
 				</div> <!--End Date form-->
 			</div> <!--Close First Column -->
 		   
 				<!-- Start Arrival column -->
 		  
-				<div class="col-lg-4 form-padding"> 
+				<div class="col-lg-5 form-padding"> 
 					<h5><span class="label label-info">To:</span></h5>
 					<div class="input-group" style="padding-right:10px"> <!--Country form -->
 					<input type="text" class="form-control" placeholder="Country">
