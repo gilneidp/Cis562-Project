@@ -33,18 +33,23 @@
 		       </div>
 			  </div>
 		  <div class="row col-md-9">
-		  <div class="col-lg-4"> <!-- Start Data form -->
-		     From: <div class="input-group">
+		  <div class="col-lg-4"> <!-- Start first column -->
+		     From: <div class="input-group"> <!--Country form -->
 			<input type="text" class="form-control" placeholder="Country">
 			<span class="input-group-addon glyphicon glyphicon-globe"></span>
-			</div>
+			</div> <!-- End Country form -->
 			
-			<div class="input-group form-padding"> 
+			<div class="input-group form-padding"> <!--City form -->
 			<input type="text" class="form-control" placeholder="City">
-			<span class="input-group-addon glyphicon glyphicon-plane"></span>
-			</div>
+			<span class="input-group-addon glyphicon glyphicon-screenshot"></span>
+			</div><!-- End City form -->
 			
-		   </div> <!--Close data form -->
+			<div class="input-group form-padding"> <!--Airport Form -->
+			<input type="text" class="form-control" placeholder="Airport">
+			<span class="input-group-addon glyphicon glyphicon-plane"></span>
+			</div><!--End Airport form -->
+			 
+		   </div> <!--Close First Column -->
 			<div class="col-lg-4"> <!-- Start Data form -->
              To: <div class="input-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
