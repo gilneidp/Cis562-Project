@@ -7,7 +7,7 @@ body {
   background-color: #cccccc;
 }
 #bg{
-    background-image:url("/img/head.jpg") no-repeat center center;
+    background-image:url("img/av.jpg") no-repeat center center;
     height: 500px;
 }
 
