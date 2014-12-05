@@ -52,7 +52,7 @@
 					<span class="input-group-addon glyphicon glyphicon-plane"></span>
 				</div><!--End Airport form -->
 			
-					<div class="input-group"><!--Start Date form-->
+					<div class="input-group form-padding"><!--Start Date form-->
 						<input type="text" class="form-control datepicker" placeholder="Departing Date">
 						<span class="input-group-btn">
 						<button class="btn btn-default glyphicon glyphicon-calendar"></button>
