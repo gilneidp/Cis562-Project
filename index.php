@@ -33,11 +33,13 @@
 		       </div>
 			  </div>
 		  <div class="row col-md-9">
-		    <div class="col-md-2"> <!-- Start Data form -->
+		    <div class="col-md-3"> <!-- Start Data form -->
 			<form class="navbar-form navbar-left" role="Dep. Date">
-            <div class="form-group">
+            <div class="imput-group">
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
-			 <button type="button" class="btn btn-default glyphicon glyphicon-calendar"></button>
+			<span class="input-group-btn">
+			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
+			</span>
             </div>
 			</form>
 		   </div> <!--Close data form -->
