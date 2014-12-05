@@ -38,6 +38,7 @@
             <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			<span class="input-group-btn">
 			 <button class="btn btn-default glyphicon glyphicon-calendar"></button>
+			 <input type="text" class="form-control datepicker" placeholder="Departing Date">
 			</span>
             </div>
 		   </div> <!--Close data form -->
