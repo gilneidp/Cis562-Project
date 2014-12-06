@@ -16,6 +16,24 @@
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
     <link rel="stylesheet" href="css/personal.css">
+	<!-- GOOGLE MAPS -->
+	
+	<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=API_KEY">
+    </script>
+    <script type="text/javascript">
+      function initialize() {
+        var mapOptions = {
+          center: { lat: -34.397, lng: 150.644},
+          zoom: 8
+        };
+        var map = new google.maps.Map(document.getElementById('map-canvas'),
+            mapOptions);
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+	
+	<!--End GOOGLE MAPS -->
   </head>
   <body>
   <div class="container main-content">
@@ -94,20 +112,7 @@
 		   
 		</div>
 		<div class="col-md-12"><!--Map Space-->
-		  <script type="text/javascript"
-		src="https://maps.googleapis.com/maps/api/js?key=API_KEY">
-		</script>
-    	<script type="text/javascript">
-		function initialize() {
-			var mapOptions = {
-			center: { lat: -34.397, lng: 150.644},
-			zoom: 8
-			};
-			var map = new google.maps.Map(document.getElementById('map-canvas'),
-            mapOptions);
-			}
-		google.maps.event.addDomListener(window, 'load', initialize);
-		</script>
+		  <div id="map-canvas"></div>
 		</div> <!--End Map Space-->
   
   
