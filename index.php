@@ -80,6 +80,8 @@
 					<input type="text" class="form-control" placeholder="Code">
 					<span class="input-group-addon glyphicon glyphicon-plane"></span>
 				</div><!--End Airport form -->
+				
+				<button type="button" class="btn btn-info">Search</button>
 			
 		   </div> <!--Close Arrival Column-->
 		   
