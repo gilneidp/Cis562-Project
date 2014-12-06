@@ -32,7 +32,7 @@
 						</div>
 						<div class="embed-responsive embed-responsive-4by3"><!--Video institutional -->
 						<div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
-						<iframe allowfullscreen="" src="https://www.youtube.com/watch?v=NieLZzuA1OQ" frameborder="0"></iframe>
+						<iframe allowfullscreen="" src="//www.youtube.com/embed/NieLZzuA1OQ" frameborder="0"></iframe>
 						</div>	
 						</div> <!--End Video Institutional-->
 					</div>
