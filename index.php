@@ -89,11 +89,9 @@
 		   
 		</div>
 		<div class="col-md-3"><!--video space-->
-		 <div class="edu-background">
 		  <div class="embed-responsive embed-responsive-4by3">
-		  <iframe class="embed-responsive-item" href="https://www.youtube.com/watch?v=NieLZzuA1OQ"></iframe>
+		  <iframe class="embed-responsive-item" src="http://www.youtube.com/watch?v=NieLZzuA1OQ"></iframe>
 		  </div>
-		 </div>
 		</div> <!--End Video Space-->
   
   
