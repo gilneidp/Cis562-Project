@@ -31,8 +31,8 @@
 							<span style="display: block !important; width: 280px; text-align: center; font-family: sans-serif; font-size: 12px;"><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Manhattan, Kansas Weather Forecast" target="_blank"><img src="http://weathersticker.wunderground.com/weathersticker/cgi-bin/banner/ban/wxBanner?bannertype=wu_travel_runway1&airportcode=KMHK&ForcedCity=Manhattan&ForcedState=KS&zip=66502&language=EN" alt="Find more about Weather in Manhattan, KS" width="160" /></a><br><a href="http://www.wunderground.com/cgi-bin/findweather/getForecast?query=zmw:66502.1.99999&bannertypeclick=wu_travel_runway1" title="Get latest Weather Forecast updates" style="font-family: sans-serif; font-size: 12px" target="_blank"></a></span>
 						</div>
 						<div class="embed-responsive embed-responsive-4by3"><!--Video institutional -->
-						<div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
-						<iframe allowfullscreen="" src="//www.youtube.com/embed/NieLZzuA1OQ" frameborder="0"></iframe>
+						<div class="flex-video " style="margin: 0 auto;text-align:center;">
+						<iframe allowfullscreen="" src="//www.youtube.com/embed/NieLZzuA1OQ?autoplay=1&loop=1&playlist=NieLZzuA1OQ" frameborder="0"></iframe>
 						</div>	
 						</div> <!--End Video Institutional-->
 					</div>
