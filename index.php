@@ -90,7 +90,9 @@
 		</div>
 		<div class="col-md-3"><!--video space-->
 		  <div class="embed-responsive embed-responsive-4by3">
-		  <iframe class="embed-responsive-item" src="//www.youtube.com/watch?v=NieLZzuA1OQ" allowfullscreen></iframe>
+		  <div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
+			<iframe allowfullscreen="" src="http://www.youtube.com/embed/6NbAAmDuv_8?feature=player_detailpage" frameborder="0"></iframe>
+			</div>	
 		  </div>
 		</div> <!--End Video Space-->
   
