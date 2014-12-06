@@ -81,7 +81,7 @@
 					<span class="input-group-addon glyphicon glyphicon-plane"></span>
 				</div><!--End Airport form -->
 				
-				<button type="button" class="btn btn-info">Search</button>
+				<button type="button" class="btn btn-info form-padding">Search</button>
 			
 		   </div> <!--Close Arrival Column-->
 		   
