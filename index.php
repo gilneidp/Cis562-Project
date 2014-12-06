@@ -19,7 +19,7 @@
 	<!-- GOOGLE MAPS -->
 	
 	<script type="text/javascript"
-      src="https://maps.googleapis.com/maps/api/js?key=API_KEY">
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDcdn6eimiDn-Yt4tWlDPzmrqKokl0otBY">
     </script>
     <script type="text/javascript">
       function initialize() {
