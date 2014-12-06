@@ -88,8 +88,13 @@
 		   </div> <!--Close Arrival Column-->
 		   
 		</div>
-		
-  
+		<div class="col-md-3"><!--video space-->
+		 <div class="edu-background">
+		  <div class="embed-responsive embed-responsive-4by3">
+		  <iframe class="embed-responsive-item" src="..."></iframe>
+		  </div>
+		 </div>
+		</div> <!--End Video Space-->
   
   
   
