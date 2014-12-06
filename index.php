@@ -93,13 +93,22 @@
 		   </div> <!--Close Arrival Column-->
 		   
 		</div>
-		<div class="col-md-3"><!--video space-->
-		  <div class="embed-responsive embed-responsive-4by3">
-		  <div class="flex-video widescreen" style="margin: 0 auto;text-align:center;">
-			<iframe allowfullscreen="" src="https://www.youtube.com/watch?v=NieLZzuA1OQ" frameborder="0"></iframe>
-			</div>	
-		  </div>
-		</div> <!--End Video Space-->
+		<div class="col-md-12"><!--Map Space-->
+		  <script type="text/javascript"
+		src="https://maps.googleapis.com/maps/api/js?key=API_KEY">
+		</script>
+    	<script type="text/javascript">
+		function initialize() {
+			var mapOptions = {
+			center: { lat: -34.397, lng: 150.644},
+			zoom: 8
+			};
+			var map = new google.maps.Map(document.getElementById('map-canvas'),
+            mapOptions);
+			}
+		google.maps.event.addDomListener(window, 'load', initialize);
+		</script>
+		</div> <!--End Map Space-->
   
   
   
