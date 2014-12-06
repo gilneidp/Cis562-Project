@@ -36,7 +36,7 @@
 						</div>
 						<div class="embed-responsive embed-responsive-4by3"><!--Video institutional -->
 						<div class="flex-video " style="margin: 0 auto;text-align:center;">
-						<iframe allowfullscreen="" src="//www.youtube.com/embed/NieLZzuA1OQ?autoplay=1&loop=1&playlist=NieLZzuA1OQ" frameborder="0"></iframe>
+						<iframe allowfullscreen="" src="//www.youtube.com/embed/NieLZzuA1OQ?autoplay=0&loop=1&playlist=NieLZzuA1OQ" frameborder="0"></iframe>
 						</div>	
 						</div> <!--End Video Institutional-->
 					</div>
