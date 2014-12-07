@@ -1,5 +1,3 @@
-
-
 var myCenter=new google.maps.LatLng(51.508742,-0.120850);
 var marker;
 
