@@ -112,6 +112,15 @@
 	<script src="js/bootstrap-datepicker.js"></script>
 	<script src="http://maps.googleapis.com/maps/api/js"> </script>
 	<script>
+	function initialize()
+		{
+			var mapProp = {
+			center:myCenter,
+			zoom:5,
+			mapTypeId:google.maps.MapTypeId.ROADMAP
+			};
+	</script>
+	<script>
 	 $(function(){
 	  $('.datepicker').datepicker();
 	  });
