@@ -128,8 +128,8 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		   </div> <!--Close Arrival Column-->
 		   
 		</div>
-		<div class="col-md-12 col-md-offset-4"><!--Map Space-->
-		<div id="googleMap" style="width:800px;height:380px;"></div>
+		<div class="col-md-12 col-md-offset-3"><!--Map Space-->
+		<div id="googleMap" style="width:700px;height:380px;"></div>
 		</div> <!--End Map Space-->
   
   
