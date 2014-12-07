@@ -25,7 +25,7 @@
   <div class="container main-content">
 		<div class="row">
 			<div class="col-md-12">
-				<a href="#"><img class="head-image" src="img/head.jpg" alt="hd"></a>
+				<a href="#"><img class="head-image" src="img/head.png" alt="hd"></a>
 			</div>
 		</div>
 	       <div class="row">
