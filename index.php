@@ -100,8 +100,7 @@
 		</div> <!--End Map Space-->
   
   
-  
-  
+
   
    </div>
   <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
@@ -110,11 +109,6 @@
     <script src="js/main.js"></script>
     <script src="js/bootstrap.min.js"></script>
 	<script src="js/bootstrap-datepicker.js"></script>
-	<script src="http://maps.googleapis.com/maps/api/js"> </script>
-	<script>
-var myCenter=new google.maps.LatLng(51.508742,-0.120850);
-var marker;
-	</script>
 	<script>
 	 $(function(){
 	  $('.datepicker').datepicker();
