@@ -97,7 +97,7 @@
 		   
 		</div>
 		<!--<div class="col-md-12 col-md-offset-3"><!--Map Space-->
-		<div id="googleMap" style="width:700px;height:380px;"></div>
+		<div class="col-md-12" id="googleMap"></div>
 		<!--<div> <!--End Map Space-->
   
   
