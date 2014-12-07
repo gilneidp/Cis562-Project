@@ -18,7 +18,7 @@
     <link rel="stylesheet" href="css/personal.css">
 	<!-- GOOGLE MAPS -->
 	<script src="http://maps.googleapis.com/maps/api/js"> </script>
-	
+	<script src="js/googlemaps.js"> </script>
 	<!--End GOOGLE MAPS -->
   </head>
   <body>
