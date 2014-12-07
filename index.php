@@ -17,7 +17,6 @@
     <![endif]-->
     <link rel="stylesheet" href="css/personal.css">
 	<!-- GOOGLE MAPS -->
-	<script src="http://maps.googleapis.com/maps/api/js"> </script>
 	<!--End GOOGLE MAPS -->
   </head>
   <body>
@@ -111,6 +110,7 @@
     <script src="js/main.js"></script>
     <script src="js/bootstrap.min.js"></script>
 	<script src="js/bootstrap-datepicker.js"></script>
+	<script src="http://maps.googleapis.com/maps/api/js"> </script>
 	<script>
 	 $(function(){
 	  $('.datepicker').datepicker();
