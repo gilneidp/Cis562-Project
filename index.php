@@ -19,6 +19,37 @@
 	<!-- GOOGLE MAPS -->
 	<script src="http://maps.googleapis.com/maps/api/js"> </script>
 	<script src="js/googlemaps.js"> </script>
+
+<script
+src="http://maps.googleapis.com/maps/api/js">
+</script>
+
+<script>
+var myCenter=new google.maps.LatLng(51.508742,-0.120850);
+var marker;
+
+function initialize()
+{
+var mapProp = {
+  center:myCenter,
+  zoom:5,
+  mapTypeId:google.maps.MapTypeId.ROADMAP
+  };
+
+var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
+
+marker=new google.maps.Marker({
+  position:myCenter,
+  animation:google.maps.Animation.BOUNCE
+  });
+
+marker.setMap(map);
+}
+
+google.maps.event.addDomListener(window, 'load', initialize);
+</script>
+
+
 	<!--End GOOGLE MAPS -->
   </head>
   <body>
@@ -98,35 +129,8 @@
 		   
 		</div>
 		<div class="col-md-12"><!--Map Space-->
-		<script src="http://maps.googleapis.com/maps/api/js"></script>
+		<div id="googleMap" style="width:1000px;height:380px;"></div>
 
-<script>
-var myCenter=new google.maps.LatLng(51.508742,-0.120850);
-var marker;
-
-function initialize()
-{
-var mapProp = {
-  center:myCenter,
-  zoom:5,
-  mapTypeId:google.maps.MapTypeId.ROADMAP
-  };
-
-var map=new google.maps.Map(document.getElementById("googleMap"),mapProp);
-
-marker=new google.maps.Marker({
-  position:myCenter,
-  animation:google.maps.Animation.BOUNCE
-  });
-
-marker.setMap(map);
-}
-
-google.maps.event.addDomListener(window, 'load', initialize);
-</script>
-
-<div id="googleMap" style="width:1000px;height:380px;"></div>
-</html>
 		</div> <!--End Map Space-->
   
   
