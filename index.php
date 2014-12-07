@@ -96,9 +96,15 @@
 		   </div> <!--Close Arrival Column-->
 		   
 		</div>
+<<<<<<< HEAD
 		<div class="col-md-12 col-md-offset-3"> <!--Map Space-->
 		<div id="googleMap" style="width:1000px;height:380px;"></div>
 		</div>  <!--End Map Space-->
+=======
+		<!--<div class="col-md-12 col-md-offset-3"><!--Map Space-->
+		<div id="googleMap" style="width:700px;height:380px;"></div>
+		<!--<div> <!--End Map Space-->
+>>>>>>> parent of d24020f... md12
   
   
 
