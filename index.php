@@ -129,7 +129,7 @@ google.maps.event.addDomListener(window, 'load', initialize);
 		   
 		</div>
 		<div class="col-md-12"><!--Map Space-->
-		<div id="googleMap" style="width:1000px;height:380px;"></div>
+		<div id="googleMap" style="width:500px;height:380px;"></div>
 
 		</div> <!--End Map Space-->
   
