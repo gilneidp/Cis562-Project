@@ -112,13 +112,8 @@
 	<script src="js/bootstrap-datepicker.js"></script>
 	<script src="http://maps.googleapis.com/maps/api/js"> </script>
 	<script>
-	function initialize()
-		{
-			var mapProp = {
-			center:myCenter,
-			zoom:5,
-			mapTypeId:google.maps.MapTypeId.ROADMAP
-			};
+var myCenter=new google.maps.LatLng(51.508742,-0.120850);
+var marker;
 	</script>
 	<script>
 	 $(function(){
